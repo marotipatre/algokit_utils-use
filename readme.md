@@ -4,9 +4,10 @@ Follow these steps to set up the project:
 
 1. Ensure you have Node.js installed. You can download it from [nodejs.org](https://nodejs.org/).
 2. Install npm (Node Package Manager) if it is not already installed. npm is included with Node.js, so you should have it after installing Node.js.
-3. Navigate to the project directory:
+3. Clone the repository:
     ```sh
-    cd /home/maroti/Dapp/algokit_utils UseCase
+    git clone https://github.com/marotipatre/algokit_utils-use.git
+    cd algokit_utils-use
     ```
 4. Install the required dependencies by running:
     ```sh
